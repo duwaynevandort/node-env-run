@@ -1,5 +1,5 @@
 {
-  "name": "@ethanresnick/node-env-run",
+  "name": "@finlife/node-env-run",
   "version": "3.0.3",
   "description": "Wrapper executable to load env variables from .env and run Node",
   "repository": {
